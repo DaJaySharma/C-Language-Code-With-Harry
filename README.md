@@ -4,7 +4,8 @@ I have already completed the first 5 chapters of my C programming journey. Howev
 
 So, for the next 5 chapters, I will be coding while actively pushing my progress to GitHub. The previous chapters’ code will also be uploaded as separate folders for reference.
 
-📂 Repository Structure
+Repository Structure
+
 01-previous-chapters/ → Contains code from the first 5 chapters.
 
 02-new-chapters/ → Live coding & learning for the remaining 5 chapters.
