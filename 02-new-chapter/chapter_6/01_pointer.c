@@ -6,6 +6,8 @@ int main(){
     printf("The address of i is %p\n", &i);
     printf("The address of i is %p\n", j);
 
+    
+
     return 0;
 
 
